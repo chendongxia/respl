@@ -20,5 +20,6 @@ public class Department {
         System.out.println("hhhh");
         System.out.println("hhhhhhh");
         this.departmentName = departmentName;
+        System.out.println("bbbbb");
     }
 }
