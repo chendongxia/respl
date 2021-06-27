@@ -17,6 +17,7 @@ public class Department {
     }
 
     public void setDepartmentName(String departmentName) {
+        System.out.println("hhhh");
         this.departmentName = departmentName;
     }
 }
